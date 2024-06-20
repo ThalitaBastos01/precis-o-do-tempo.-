@@ -89,7 +89,16 @@ body {
     margin: 0.6rem 0;
 }
 
+
 #details-container {
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#details-container #umitidy {
+    border-right: 1px #fff;
+    margin: .6rem;
+    padding: .6rem;
 }
 
